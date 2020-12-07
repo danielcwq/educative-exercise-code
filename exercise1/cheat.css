@@ -1,0 +1,22 @@
+/* Add your code here  */
+/* Style massachusetts state name */
+
+#MSTATE{
+  background-color: lightblue;
+  color: rgb(145, 135, 135);
+  padding: 40px;
+  text-align: center;
+}
+
+/* Style all city names */
+
+
+.city/*add relevant city id or class selector here*/{
+  background-color: black;
+  color: white;
+  padding: 10px;
+} 
+
+p{
+  font-size: 20;
+}
