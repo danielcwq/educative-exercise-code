@@ -1,0 +1,27 @@
+<html>
+
+<head>
+</head>
+
+<body>
+	<div>
+        <hgroup>
+        <h1>Welcome to Massachusetts!</h1>
+        <h2>Cities in Massachusetts State</h2>
+        </hgroup>
+    </div>
+
+    <div>
+        <h1 id="MSTATE">Massachusetts State</h1>
+        <h2 class="city">Boston</h2>
+        <p>Boston is the capital of Massachusetts</p>
+        <h2 class="city">Cambridge</h2>
+        <p>Cambridge is a city in Massachusetts, across the Charles River from Boston. It’s home to Harvard University</p>
+        <h2 class="city">Worcester</h2>
+        <p>Worcester is a city in central Massachusetts. The vast collection at the central Worcester Art Museum includes Roman mosaics, Impressionist paintings and medieval armor.</p>
+
+    </div>
+    <!-- Write your code here -->
+</body>
+
+</html>
