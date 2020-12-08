@@ -1,0 +1,19 @@
+img {
+	/* Write your solution here */ 
+    width: 30%;
+    float: left;
+    margin: 1.66%;
+}
+
+h1{
+	/* Write your solution here */ 
+    font-family:Verdana, sans-serif;
+    text-align:center;
+
+}
+p{
+	/* Write your solution here */ 
+    font-family:'Times New Roman', Times, serif;
+    font-size:20; 
+
+}
